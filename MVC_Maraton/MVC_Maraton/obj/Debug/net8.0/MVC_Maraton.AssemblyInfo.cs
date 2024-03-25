@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC_Maraton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+333accf7bb47e085578702728e43b7d4278c898b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC_Maraton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC_Maraton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
